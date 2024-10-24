@@ -5,7 +5,7 @@ const db = require("./db/models/index");
 const app = express();
 
 app.use(cors({
-  origin: 'http://localhost:3000', 
+  origin: 'https://mind-care-teal.vercel.app/', 
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }));
