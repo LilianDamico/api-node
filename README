@@ -1,0 +1,21 @@
+### npm init
+
+### npm install express
+
+### npm install --save-dev nodemon
+
+### npm install --save sequelize
+
+### npm install --save pg pg-store
+
+### npm install --save-dev sequelize-cli
+
+### npx sequelize-cli init
+
+### npm install dotenv --save
+
+### npx sequelize-cli migration:generate --name cadastro 
+
+### npx sequelize-cli db:migrate
+
+### npx sequelize-cli model:generate --name --attributes
